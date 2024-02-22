@@ -1,0 +1,1 @@
+Current project is to make a basic recipe website using HTML. The skills being demonstrated will include building a simple HTML website as well as using Git.
